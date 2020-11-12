@@ -23,7 +23,7 @@ export default {
     appHeader,
     appStartEarning,
     appPerks,
-    appOneClickAway,
-  },
+    appOneClickAway
+  }
 };
 </script>
